@@ -1,7 +1,8 @@
 {
-  "name": "electrols",
+  "name": "electron-ls",
+  "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Play with Electron & LiveScript",
   "main": "src",
   "scripts": {
     "start": "electron ."
