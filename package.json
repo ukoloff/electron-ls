@@ -1,0 +1,16 @@
+{
+  "name": "electrols",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.10",
+    "livescript": "^1.6.0"
+  }
+}
